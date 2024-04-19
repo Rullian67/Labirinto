@@ -1,0 +1,14 @@
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\obj\Debug\net7.0\Labirinto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\obj\Debug\net7.0\Labirinto.AssemblyInfoInputs.cache
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\obj\Debug\net7.0\Labirinto.AssemblyInfo.cs
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\obj\Debug\net7.0\Labirinto.csproj.CoreCompileInputs.cache
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\bin\Debug\net7.0\Labirinto.exe
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\bin\Debug\net7.0\Labirinto.deps.json
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\bin\Debug\net7.0\Labirinto.runtimeconfig.json
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\bin\Debug\net7.0\Labirinto.dll
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\bin\Debug\net7.0\Labirinto.pdb
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\obj\Debug\net7.0\Labirinto.dll
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\obj\Debug\net7.0\refint\Labirinto.dll
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\obj\Debug\net7.0\Labirinto.pdb
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\obj\Debug\net7.0\Labirinto.genruntimeconfig.cache
+C:\Users\rulli\OneDrive\Documentos\Visual.studio\Labirinto\obj\Debug\net7.0\ref\Labirinto.dll
